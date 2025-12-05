@@ -1,6 +1,6 @@
 <!-- Banner de apresentação -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2600&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Leon!;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Focado+em+Backend;Seja+bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2600&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Alef+Leon!;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Focado+em+Backend;Seja+bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </div>
 
 ---
