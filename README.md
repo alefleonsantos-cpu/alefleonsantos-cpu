@@ -7,7 +7,7 @@
 
 <h1 align="center">👋 Sobre mim</h1>
 
-Me chamo **Leon**, tenho **31 anos** e sou natural de **Votorantim – SP**.  
+Me chamo **Alef Leon**, tenho **31 anos** e sou natural de **Votorantim – SP**.  
 Cursando **Análise e Desenvolvimento de Sistemas na FIAP**, sou apaixonado por tecnologia e estou constantemente estudando para me tornar um desenvolvedor **Full Stack**, com foco principal em **Backend**.
 
 Gosto de criar soluções inteligentes, escaláveis e bem organizadas — sempre buscando boas práticas, clean code e evolução contínua.
